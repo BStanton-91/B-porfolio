@@ -1,4 +1,4 @@
-# B-potfolio
+# B-portfolio
 This is my portfoli where some explains of my work.
 
 
